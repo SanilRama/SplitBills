@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SplitBills/static/css/main.6b4bc025.chunk.css",
+    "main.js": "/SplitBills/static/js/main.ada9e13b.chunk.js",
+    "main.js.map": "/SplitBills/static/js/main.ada9e13b.chunk.js.map",
+    "runtime-main.js": "/SplitBills/static/js/runtime-main.9e96306e.js",
+    "runtime-main.js.map": "/SplitBills/static/js/runtime-main.9e96306e.js.map",
+    "static/css/2.8aa5a7f8.chunk.css": "/SplitBills/static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.1c254df4.chunk.js": "/SplitBills/static/js/2.1c254df4.chunk.js",
+    "static/js/2.1c254df4.chunk.js.map": "/SplitBills/static/js/2.1c254df4.chunk.js.map",
+    "index.html": "/SplitBills/index.html",
+    "precache-manifest.8a1322be11421ccad04dbc5b579b3dbe.js": "/SplitBills/precache-manifest.8a1322be11421ccad04dbc5b579b3dbe.js",
+    "service-worker.js": "/SplitBills/service-worker.js",
+    "static/css/2.8aa5a7f8.chunk.css.map": "/SplitBills/static/css/2.8aa5a7f8.chunk.css.map",
+    "static/css/main.6b4bc025.chunk.css.map": "/SplitBills/static/css/main.6b4bc025.chunk.css.map",
+    "static/js/2.1c254df4.chunk.js.LICENSE.txt": "/SplitBills/static/js/2.1c254df4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e96306e.js",
+    "static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.1c254df4.chunk.js",
+    "static/css/main.6b4bc025.chunk.css",
+    "static/js/main.ada9e13b.chunk.js"
+  ]
+}
